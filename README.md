@@ -4,16 +4,13 @@ A backend express application that represents a library website, allowing most C
 
 ## To Run
 
-1)
-Clone the repository \
+1) Clone the repository
 
-2)
-Go into the client directory \
+2) Go into the client directory \
 Install the packages via `npm install` \
 Run the client via `npm start`
 
-3)
-Go into the server directory \
+3) Go into the server directory \
 Install the packages by via `npm install` \
 Run the server via `npm start`
 
