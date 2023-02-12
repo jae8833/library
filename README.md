@@ -2,14 +2,18 @@
 
 A backend express application that represents a library website, allowing most CRUD operations for authors, books, book-instances, and genres. The changes on our models are updated via REST API and mongoose/mongoDB then shown dynamically on the browser via pug.
 
-## To run
+## To Run
 
-Clone the directory
+1)
+Clone the repository \
 
-### `npm start`
+2)
+Go into the client directory \
+Install the packages via `npm install` \
+Run the client via `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+3)
+Go into the server directory \
+Install the packages by via `npm install` \
+Run the server via `npm start`
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
